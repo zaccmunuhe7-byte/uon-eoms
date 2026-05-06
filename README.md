@@ -24,7 +24,3 @@ A production-ready web platform tailored for University of Nairobi student organ
 - Rust Backend setup with Diesel migrations and connection pooling.
 - Next.js frontend scaffold.
 - Docker-compose orchestration for seamless deployment.
-# uon-eoms
-# uon-eoms
-# uon-eoms
-# uon-eoms
