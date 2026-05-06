@@ -1,0 +1,22 @@
+# Rust
+backend/target/
+backend/Cargo.lock
+
+# Node.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/out/
+frontend/build/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+.env
